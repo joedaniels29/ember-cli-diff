@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-diff",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.1",
+  "description": "Quick Diff library for Ember-cli",
   "directories": {
     "doc": "doc",
     "test": "tests"
