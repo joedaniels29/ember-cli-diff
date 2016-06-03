@@ -1,17 +1,6 @@
-
-
-
 # Ember-cli-diff
 
-Include animate.css in an ember-cli app.
-
-When the addon is installed, it will add animate.css `latest` as
-a bower dependency.
-
-## Dependencies
-
-Requires Google's `diff-match-patch` library (it's very robust).
-
+This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
 
