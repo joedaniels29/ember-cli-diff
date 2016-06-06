@@ -1,6 +1,7 @@
 {
   "predef": [
     "document",
+    "diff_match_patch",
     "window",
     "-Promise"
   ],
