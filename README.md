@@ -1,6 +1,26 @@
 # Ember-cli-diff
 
-This README outlines the details of collaborating on this Ember addon.
+
+```hbs
+{{diff-text
+      firstText=firstText
+      secondText=secondText
+     }}
+```
+
+######with properties:
+```javascript
+{firstText:'abc',secondText:'cba'}
+```
+
+######produces:
+```html
+<span class="removed">abc</span><span class="new">cba</span>
+```
+
+
+
+
 
 ## Installation
 
