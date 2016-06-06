@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-diff",
-  "version": "0.0.3",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.4",
+  "description": "Utilizes google-diff-match-patch to make a diff a breeze.",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -11,11 +11,11 @@
     "start": "ember server",
     "test": "ember try:testall"
   },
-  "repository": "",
   "engines": {
     "node": ">= 0.10.0"
   },
   "author": "",
+  "repository": "joedaniels29/ember-cli-diff",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.2",
